@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "typescriptproject",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\uki\\Documents\\latihan\\typescript-app\\amplify\\backend\\api\\typescriptproject\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
